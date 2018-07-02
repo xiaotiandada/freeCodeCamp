@@ -17,5 +17,3 @@
 ## 20 String Methods 
 
 ## Copying Arrays
-
-``` 
